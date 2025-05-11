@@ -10,6 +10,7 @@ import UIKit
 public final class AppColor {
     
     public static func primary() -> UIColor {
+        print("추가추가")
         return UIColor(named: "AppPrimary") ?? UIColor.systemBlue
     }
 
