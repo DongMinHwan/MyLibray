@@ -18,6 +18,6 @@ public extension UIColor {
 
     static var appText: UIColor {
         UIColor(named: "AppText") ?? UIColor.label
-    } 
+    }
     
 }
